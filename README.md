@@ -114,10 +114,9 @@ I am currently growing as a **Full Stack JavaScript Developer**, building practi
 
 ## 📫 Contact
 
-* GitHub: `YOUR_USERNAME`
-* LinkedIn: `YOUR_LINKEDIN`
-* Telegram: `YOUR_TELEGRAM`
-* Email: `YOUR_EMAIL`
+* LinkedIn: `https://www.linkedin.com/in/maksym-yaropovets`
+* Telegram: `@Maksimum135`
+* Email: `777docmax777@gmail.com`
 
 ---
 
